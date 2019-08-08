@@ -47,7 +47,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script> 
 </head>
-  <body data-url="http://www.openapis.col.gob.mx/API_PU/" id="Body">
+  <body style="background: #635E5E">
 
     <script>
         $(document).ready(function(){
@@ -149,9 +149,7 @@
 	.subcategory h4{
 		color: rgb(189, 95, 95);
 	}
-	p	{
-	font-size: 12pt;
-}
+
 
 </style>
 <main class="inner-page interior ficha">
@@ -168,8 +166,10 @@
 		<span class="col-1 separador-secciones-dark-1-pu"></span>
 	</div>
 	<br><br>
-			<p style="font-size:12pt">El Registro Estatal de Trámites y Servicios (RETyS) es el sistema electrónico que contiene la información de los trámites y servicios de las dependencias y entidades de la administración pública estatal. Las dependencias no podrán aplicar trámites o servicios adicionales a los establecidos en este registro, ni podrán exigir requisitos adicionales en forma distinta a como se inscriben. La legalidad y el contenido de la información que inscriben las dependencias en el registro son de su estricta responsabilidad.</p>
-	<div class="row">
+			<span>El Registro Estatal de Trámites y Servicios (RETyS) es el sistema electrónico que contiene la información de los trámites y servicios de las dependencias y entidades de la administración pública estatal. Las dependencias no podrán aplicar trámites o servicios adicionales a los establecidos en este registro, ni podrán exigir requisitos adicionales en forma distinta a como se inscriben. La legalidad y el contenido de la información que inscriben las dependencias en el registro son de su estricta responsabilidad.</span>
+		<br>
+		<br>
+		<div class="row">
 		<div class="col-6 text-justify">		
 			¿Tienes alguna duda con un servicio en línea?<br>
 			<span class="fa fa-envelope" style="color:#f68d91;">&nbsp;
@@ -253,7 +253,7 @@
 					<div id="pane3" class="pane-inner">
 					</div>
 				</div>
-				<div class="pane second">
+				<div style="background:#999999"class="pane second">
 					<div id="pane2" class="pane-inner">
 						<h3 class="text-justify">
 							Empresa						</h3>
