@@ -149,9 +149,23 @@
 	.subcategory h4{
 		color: rgb(189, 95, 95);
 	}
+<<<<<<< HEAD:application/views/TramitesView.php
 	p	{
 	font-size: 12pt;
 }
+=======
+<<<<<<< HEAD:application/views/tramites.php
+<<<<<<< HEAD
+	p	{
+	font-size: 12pt;
+}
+=======
+
+>>>>>>> bc5cc5c2cd517c49c8585c5db68e18faf8d3c5fc
+=======
+
+>>>>>>> bc5cc5c2cd517c49c8585c5db68e18faf8d3c5fc:application/views/tramites.php
+>>>>>>> 37c968bbd493b747add1909fd5867ed7f8a510d9:application/views/tramites.php
 
 </style>
 <main class="inner-page interior ficha">
@@ -168,12 +182,31 @@
 		<span class="col-1 separador-secciones-dark-1-pu"></span>
 	</div>
 	<br><br>
+<<<<<<< HEAD:application/views/TramitesView.php
 			<p style="font-size:12pt">El Registro Estatal de Trámites y Servicios (RETyS) es el sistema electrónico que contiene la información de los trámites y servicios de las dependencias y entidades de la administración pública estatal. Las dependencias no podrán aplicar trámites o servicios adicionales a los establecidos en este registro, ni podrán exigir requisitos adicionales en forma distinta a como se inscriben. La legalidad y el contenido de la información que inscriben las dependencias en el registro son de su estricta responsabilidad.</p>
 	<div class="row">
+=======
+<<<<<<< HEAD:application/views/tramites.php
+<<<<<<< HEAD
+			<p style="font-size:12pt">El Registro Estatal de Trámites y Servicios (RETyS) es el sistema electrónico que contiene la información de los trámites y servicios de las dependencias y entidades de la administración pública estatal. Las dependencias no podrán aplicar trámites o servicios adicionales a los establecidos en este registro, ni podrán exigir requisitos adicionales en forma distinta a como se inscriben. La legalidad y el contenido de la información que inscriben las dependencias en el registro son de su estricta responsabilidad.</p>
+	<div class="row">
+=======
+=======
+>>>>>>> bc5cc5c2cd517c49c8585c5db68e18faf8d3c5fc:application/views/tramites.php
+			<span>El Registro Estatal de Trámites y Servicios (RETyS) es el sistema electrónico que contiene la información de los trámites y servicios de las dependencias y entidades de la administración pública estatal. Las dependencias no podrán aplicar trámites o servicios adicionales a los establecidos en este registro, ni podrán exigir requisitos adicionales en forma distinta a como se inscriben. La legalidad y el contenido de la información que inscriben las dependencias en el registro son de su estricta responsabilidad.</span>
+		<br>
+		<br>
+		<div class="row">
+<<<<<<< HEAD:application/views/tramites.php
+>>>>>>> bc5cc5c2cd517c49c8585c5db68e18faf8d3c5fc
+=======
+>>>>>>> bc5cc5c2cd517c49c8585c5db68e18faf8d3c5fc:application/views/tramites.php
+>>>>>>> 37c968bbd493b747add1909fd5867ed7f8a510d9:application/views/tramites.php
 		<div class="col-6 text-justify">		
 			¿Tienes alguna duda con un servicio en línea?<br>
 			<span class="fa fa-envelope" style="color:#f68d91;">&nbsp;
-			<!-- </span><span><b> tramitesenlinea@gobiernocolima.gob.mx</b></span><br> -->
+			<!-- </span><span><b> tramitesenlinea
+			@gobiernocolima.gob.mx</b></span><br> -->
 			</span><span><b> tramitesenlineacolima@gmail.com</b></span><br>
 			<!-- <span>(312) 31 6 20 58, <br>(312) 31 6 20 96 y <br> (312) 31 6 20 00 ext. 2370</span> -->
 			<span class="fa fa-phone" style="color:#f68d91;">&nbsp;</span>
@@ -253,13 +286,29 @@
 					<div id="pane3" class="pane-inner">
 					</div>
 				</div>
+<<<<<<< HEAD:application/views/TramitesView.php
 				<div class="pane second">
+=======
+<<<<<<< HEAD:application/views/tramites.php
+<<<<<<< HEAD
+				<div style="background: #999999" class="pane second">
+=======
+				<div style="background:#999999"class="pane second">
+>>>>>>> bc5cc5c2cd517c49c8585c5db68e18faf8d3c5fc
+=======
+				<div style="background:#999999"class="pane second">
+>>>>>>> bc5cc5c2cd517c49c8585c5db68e18faf8d3c5fc:application/views/tramites.php
+>>>>>>> 37c968bbd493b747add1909fd5867ed7f8a510d9:application/views/tramites.php
 					<div id="pane2" class="pane-inner">
 						<h3 class="text-justify">
 							Empresa						</h3>
 						<ul>
 							<li id="PR2_178">
+<<<<<<< HEAD
+											<a class="subcategory" onclick="javascript:IrArriba()" href="javascript:CargaTramite(178,'pane3');" data-subcategory-id="178" style="display:flex; background:#999999">
+=======
 											<a class="subcategory" onclick="javascript:IrArriba()" href="javascript:CargaTramite(178,'pane3');" data-subcategory-id="178" style="display:flex">
+>>>>>>> bc5cc5c2cd517c49c8585c5db68e18faf8d3c5fc
 												<div class="col-12">  
 													<span >Atención de Quejas, Sugerencias y Felicitaciones</span>
 												</div>
