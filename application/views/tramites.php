@@ -173,7 +173,8 @@
 		<div class="col-6 text-justify">		
 			¿Tienes alguna duda con un servicio en línea?<br>
 			<span class="fa fa-envelope" style="color:#f68d91;">&nbsp;
-			<!-- </span><span><b> tramitesenlinea@gobiernocolima.gob.mx</b></span><br> -->
+			<!-- </span><span><b> tramitesenlinea
+			@gobiernocolima.gob.mx</b></span><br> -->
 			</span><span><b> tramitesenlineacolima@gmail.com</b></span><br>
 			<!-- <span>(312) 31 6 20 58, <br>(312) 31 6 20 96 y <br> (312) 31 6 20 00 ext. 2370</span> -->
 			<span class="fa fa-phone" style="color:#f68d91;">&nbsp;</span>
