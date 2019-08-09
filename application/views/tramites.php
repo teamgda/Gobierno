@@ -149,9 +149,13 @@
 	.subcategory h4{
 		color: rgb(189, 95, 95);
 	}
+<<<<<<< HEAD
 	p	{
 	font-size: 12pt;
 }
+=======
+
+>>>>>>> bc5cc5c2cd517c49c8585c5db68e18faf8d3c5fc
 
 </style>
 <main class="inner-page interior ficha">
@@ -168,8 +172,15 @@
 		<span class="col-1 separador-secciones-dark-1-pu"></span>
 	</div>
 	<br><br>
+<<<<<<< HEAD
 			<p style="font-size:12pt">El Registro Estatal de Trámites y Servicios (RETyS) es el sistema electrónico que contiene la información de los trámites y servicios de las dependencias y entidades de la administración pública estatal. Las dependencias no podrán aplicar trámites o servicios adicionales a los establecidos en este registro, ni podrán exigir requisitos adicionales en forma distinta a como se inscriben. La legalidad y el contenido de la información que inscriben las dependencias en el registro son de su estricta responsabilidad.</p>
 	<div class="row">
+=======
+			<span>El Registro Estatal de Trámites y Servicios (RETyS) es el sistema electrónico que contiene la información de los trámites y servicios de las dependencias y entidades de la administración pública estatal. Las dependencias no podrán aplicar trámites o servicios adicionales a los establecidos en este registro, ni podrán exigir requisitos adicionales en forma distinta a como se inscriben. La legalidad y el contenido de la información que inscriben las dependencias en el registro son de su estricta responsabilidad.</span>
+		<br>
+		<br>
+		<div class="row">
+>>>>>>> bc5cc5c2cd517c49c8585c5db68e18faf8d3c5fc
 		<div class="col-6 text-justify">		
 			¿Tienes alguna duda con un servicio en línea?<br>
 			<span class="fa fa-envelope" style="color:#f68d91;">&nbsp;
@@ -253,13 +264,21 @@
 					<div id="pane3" class="pane-inner">
 					</div>
 				</div>
+<<<<<<< HEAD
 				<div style="background: #999999" class="pane second">
+=======
+				<div style="background:#999999"class="pane second">
+>>>>>>> bc5cc5c2cd517c49c8585c5db68e18faf8d3c5fc
 					<div id="pane2" class="pane-inner">
 						<h3 class="text-justify">
 							Empresa						</h3>
 						<ul>
 							<li id="PR2_178">
+<<<<<<< HEAD
 											<a class="subcategory" onclick="javascript:IrArriba()" href="javascript:CargaTramite(178,'pane3');" data-subcategory-id="178" style="display:flex; background:#999999">
+=======
+											<a class="subcategory" onclick="javascript:IrArriba()" href="javascript:CargaTramite(178,'pane3');" data-subcategory-id="178" style="display:flex">
+>>>>>>> bc5cc5c2cd517c49c8585c5db68e18faf8d3c5fc
 												<div class="col-12">  
 													<span >Atención de Quejas, Sugerencias y Felicitaciones</span>
 												</div>
